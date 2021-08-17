@@ -1,0 +1,10 @@
+1、ajax.php
+放入根目录进行覆盖
+
+
+2、index.php
+放入根目录->template -> qicai  覆盖
+
+
+3、main.js
+放入根目录 -> assets -> js 覆盖
